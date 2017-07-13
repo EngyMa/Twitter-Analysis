@@ -5,11 +5,14 @@ Ongoing
 
 ## Methodology
 1. Create a [Twitter app](https://apps.twitter.com/)
+
 2. Connect to Twitter Streaming API and download Tweets based on selected keywords:
-- Create a Twitter_Streaming.py file with the [following code]()
+- Create a Twitter_Streaming.py file with the [following code](https://github.com/domptail/Twitter-Analysis/edit/master/Twitter_Streaming.py)
 - Use the following command in the terminal to store the filtered Tweets in a new file:
+
 python Twitter_Streaming.py > new_file_name.txt
-3. Reading the data
+
+3. Reading and analyzing the data (see [Jupyter notebook]())
 
 ## Resources
 - Marco Bonzanini's [blog](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/): Mining Twitter Data with Python

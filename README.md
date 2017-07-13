@@ -10,7 +10,9 @@ Ongoing
 - Create a Twitter_Streaming.py file with the [following code](https://github.com/domptail/Twitter-Analysis/edit/master/Twitter_Streaming.py)
 - Use the following command in the terminal to store the filtered Tweets in a new file:
 
-<center>python Twitter_Streaming.py > new_file_name.txt</center>
+<p align="center">
+python Twitter_Streaming.py > new_file_name.txt
+</p>
 
 3. Reading and analyzing the data (see [Jupyter notebook]())
 

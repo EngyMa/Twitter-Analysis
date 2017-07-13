@@ -28,6 +28,6 @@ class MyListener(StreamListener):
 # Connect to Twitter Streaming API and filter tweets 
 stream = Stream(auth, MyListener())
 
-keywords = ['xxxxx', 'xxxxxxxx', 'xxxxxx]
+keywords = ['xxxxx', 'xxxxxxxx', 'xxxxxx']
 
 stream.filter(track=keywords)
